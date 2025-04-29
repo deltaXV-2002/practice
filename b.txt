@@ -1,1 +1,4 @@
+HEAD
 editing b.txt file
+editing b.txt again
+bike
